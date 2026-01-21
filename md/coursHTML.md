@@ -98,3 +98,25 @@ Rem: Il existe des propriétés spécifiques au texte, en parfticulier:
 Ils existe deux balises HTML universelles qui permettent de grouper des éléments ou du texte:
 - `<div></div>`
 -`<span></span>`
+
+
+3. Javascript
+
+Il s'agit d'un langage de programmation comme Python mais initialement dédié au WEB.
+
+C'est un langage prévu pour interagir avec une page HTML : le document
+peut se représenter ainsi:
+
+window
+ ├── alert()
+ └── document
+      ├── getElementById()
+      └── querySelector()
+            ↓
+         élément HTML
+            ├── innerHTML
+            ├── style
+            │     ├── color
+            │     ├── backgroundColor
+            │     └── display
+            └── addEventListener()
