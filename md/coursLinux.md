@@ -145,7 +145,10 @@ n'existe pas, alors il est crée. Le symbole `>>` ajoute le texte à la suite sa
 -----------
 
 Les fichiers python `.py` ne sont pas des fichiers exécutables dans le shell. Il faut un programme
-pour les exécuter : `python .:monFichier.py`
+pour les exécuter : `python ./monFichier.py`
 
 ## Ex 1
 [https://codex.forge.apps.education.fr/exercices/course_cycliste/](https://codex.forge.apps.education.fr/exercices/course_cycliste/)
+
+## Ex2
+[https://codex.forge.apps.education.fr/exercices/syracuse/](https://codex.forge.apps.education.fr/exercices/syracuse/)
