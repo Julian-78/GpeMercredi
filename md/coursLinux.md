@@ -74,6 +74,7 @@ Syntaxe générale:    `nom --option argument` ou `nom -option argument`
 |`head`|affiche les premières lignes d'un fichier |`$ head monFichier`|
 |`tail`|affiche les dernières lignes d'un fichier |`$ tail -n 3 monFichier`|
 |`grep`|attraper une chaine dans un fichier |`$ grep chaine monFichier`|
+|`find`|recherche un fichier dans une arborescence |`$ find ./ -name "monFichier"`|
 ---------------
 Pour éditer un fichier plusieurs commandes/éditeurs sont possibles :
 - `nano` (dans ce cours)
@@ -152,3 +153,10 @@ pour les exécuter : `python ./monFichier.py`
 
 ## Ex2
 [https://codex.forge.apps.education.fr/exercices/syracuse/](https://codex.forge.apps.education.fr/exercices/syracuse/)
+
+## Ex3
+[https://codex.forge.apps.education.fr/exercices/fusion_listes_triees/](https://codex.forge.apps.education.fr/exercices/fusion_listes_triees/)
+-------------------
+
+Le *File Globbing* : la recherche de fichiers avec une *wildcard*
+
